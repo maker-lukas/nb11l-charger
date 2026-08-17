@@ -36,5 +36,5 @@ See [BOM.csv](BOM.csv) for the full bill of materials.
     <img src="images/zine.png" width="100%">
   </a>
   <br>
-  <p><a href="images/zine.pdf">Full PDF</a></p>
+  <p><a href="images/zine.pdf">PDF</a></p>
 </div>
