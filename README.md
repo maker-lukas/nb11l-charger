@@ -28,6 +28,7 @@ See [BOM.csv](BOM.csv) for the full bill of materials.
 |                                     |                                   |                                  |
 | ----------------------------------- | --------------------------------- | -------------------------------- |
 | ![Angled view](images/IMG_8405.JPG) | ![Side View](images/IMG_8410.JPG) | ![Top View](images/IMG_8412.JPG) |
+![Schematic](images/schematic.png)
 
 ## Zine
 
