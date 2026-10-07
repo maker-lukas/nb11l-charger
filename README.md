@@ -11,7 +11,7 @@ which didn't quite work out, but the pins worked just well enough for this
 project with the battery pins exposed. The charger is pretty slow, but it does
 charge.
 
-[Demo video!](youtube.com/watch?v=nUSafZFBi3E)
+[Demo video!](https://youtube.com/watch?v=nUSafZFBi3E)
 
 ## BOM
 
